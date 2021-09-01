@@ -1,0 +1,1 @@
+export {IndexTemplate} from './IndexTemplate'
